@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "JSM1-12V-4"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-09-03-16:12:45)
+    (mountForm default
+        (footprintRef "JSM112V4")
+        (spec "System")
+    )
+)

@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "JSM112V4"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "JSM112V4")
+        (spec "default")
+    )
+)

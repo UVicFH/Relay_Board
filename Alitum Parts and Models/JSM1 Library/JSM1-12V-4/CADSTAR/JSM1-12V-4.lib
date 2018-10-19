@@ -1,0 +1,19 @@
+.JSM1-12V-4 :1 ;PANASONIC ELECTRIC WORKS - JSM1-12V-4 - RELAY, AUTOMOTIVE, SPDT, 16VDC, 10A
+JSM112V4
+*STM K
+*NGS
+*PLB 1="COM" 2="COIL_1" 3="NO" 4="NC" 5="COIL_2"
+*MXP 5
+*DFN JSM1-12V-4
+~!Manufacturer_Name (Panasonic)
+~!Manufacturer_Part_Number (JSM1-12V-4)
+~!RS Part Number (-)
+~!RS Price/Stock (-)
+~!Allied_Number (70618207)
+~!Link Allied Price/Stock (https://www.alliedelec.com/panasonic-jsm1-12v-4/70618207/)
+~!Arrow Part Number (JSM1-12V-4)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/jsm1-12v-4/panasonic)
+~!Link Datasheet (https://media.digikey.com/pdf/Data%20Sheets/Panasonic%20Electric%20Works%20PDFs/JS-M_Series_Rev_Dec_2011.pdf)
+~!Height (-)
+JSM1-12V-4
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

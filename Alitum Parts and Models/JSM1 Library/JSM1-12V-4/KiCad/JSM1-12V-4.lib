@@ -1,0 +1,30 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model JSM1-12V-4
+#/356855/63272/2.31/5/4/Relay or Contactor
+DEF JSM1-12V-4 K 0 30 Y Y 1 F N
+F0 "K" 1150 300 50 H V L CNN
+F1 "JSM1-12V-4" 1150 200 50 H V L CNN
+F2 "JSM112V4" 1150 100 50 H I L CNN
+F3 "https://media.digikey.com/pdf/Data%20Sheets/Panasonic%20Electric%20Works%20PDFs/JS-M_Series_Rev_Dec_2011.pdf" 1150 0 50 H I L CNN
+F4 "PANASONIC ELECTRIC WORKS - JSM1-12V-4 - RELAY, AUTOMOTIVE, SPDT, 16VDC, 10A" 1150 -100 50 H I L CNN "Description"
+F5 "" 1150 -200 50 H I L CNN "Height"
+F6 "Panasonic" 1150 -300 50 H I L CNN "Manufacturer_Name"
+F7 "JSM1-12V-4" 1150 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "" 1150 -500 50 H I L CNN "RS Part Number"
+F9 "" 1150 -600 50 H I L CNN "RS Price/Stock"
+F10 "70618207" 1150 -700 50 H I L CNN "Allied_Number"
+F11 "https://www.alliedelec.com/panasonic-jsm1-12v-4/70618207/" 1150 -800 50 H I L CNN "Allied Price/Stock"
+F12 "JSM1-12V-4" 1150 -900 50 H I L CNN "Arrow Part Number"
+F13 "https://www.arrow.com/en/products/jsm1-12v-4/panasonic" 1150 -1000 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X COM 1 0 0 200 R 50 50 0 0 B
+X COIL_1 2 0 -100 200 R 50 50 0 0 B
+X NO 3 0 -200 200 R 50 50 0 0 B
+X NC 4 1300 0 200 L 50 50 0 0 B
+X COIL_2 5 1300 -100 200 L 50 50 0 0 B
+P 5 0 1 6 200 100 1100 100 1100 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
