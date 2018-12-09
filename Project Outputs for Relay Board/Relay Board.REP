@@ -1,0 +1,523 @@
+*************************************************************
+FileName = Relay Board.GBR
+AutoAperture = True
+*************************************************************
+Generating : Mechanical 10
+      File : Relay Board.GM10
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 3
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : Mechanical 12
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : Relay Board.GM15
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 3
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : Mechanical 12
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Relay Board.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 3
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : Mechanical 12
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Relay Board.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 3
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : Mechanical 12
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Relay Board.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 3
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : Mechanical 12
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D24
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Relay Board.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 3
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : Mechanical 12
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 16
+      File : Relay Board.GM16
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 3
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : Mechanical 12
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 3
+      File : Relay Board.GM3
+
+    Adding Layer      : Mechanical 3
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 3
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : Mechanical 12
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : Relay Board.GM13
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 3
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : Mechanical 12
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Relay Board.GM1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 3
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : Mechanical 12
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Relay Board.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 3
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : Mechanical 12
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Relay Board.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 3
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : Mechanical 12
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D29
+    D31
+    D32
+    D33
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 12
+      File : Relay Board.GM12
+
+    Adding Layer      : Mechanical 12
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 3
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : Mechanical 12
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Relay Board.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 3
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : Mechanical 12
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Relay Board.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 3
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : Mechanical 12
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Relay Board.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 3
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : Mechanical 12
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
