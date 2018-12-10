@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Relay Board.PcbDoc   2018-12-08  10:35:29 PM
+NCDrill File Report For: Relay Board.PcbDoc   2018-12-09  10:53:35 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,11 +7,11 @@ ASCII RoundHoles File : Relay Board.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      1.3mm (51mil)                                             Round             5         PTH        0.00mm (0.00inch)
-T2      1.6mm (63mil)           +/-0.08mm (3mil)                  Round             6         PTH        0.00mm (0.00inch)
-T3      4mm (157mil)                                              Round             1         PTH        0.00mm (0.00inch)
-T4      4mm (157mil)                                              Round             1         NPTH       0.00mm (0.00inch)
-T5      5mm (197mil)            +/-0.08mm (3mil)                  Round             2         NPTH       0.00mm (0.00inch)
+T1      51mil (1.3mm)                                             Round             5         PTH        0.00inch (0.00mm)
+T2      63mil (1.6mm)           +/-3mil (0.08mm)                  Round             6         PTH        0.00inch (0.00mm)
+T3      157mil (4mm)                                              Round             1         PTH        0.00inch (0.00mm)
+T4      157mil (4mm)                                              Round             1         NPTH       0.00inch (0.00mm)
+T5      197mil (5mm)            +/-3mil (0.08mm)                  Round             2         NPTH       0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
 Totals                                                                              15
 
